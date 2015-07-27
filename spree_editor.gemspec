@@ -21,7 +21,6 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.requirements << 'none'
 
-  s.add_dependency 'ckeditor', github: 'galetahub/ckeditor'
   s.add_dependency 'spree_backend', '~> 2.4.0'
   s.add_dependency 'tinymce-rails'
 
